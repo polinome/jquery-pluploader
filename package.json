@@ -1,0 +1,23 @@
+{
+  "name": "jquery-pluploader",
+  "version": "1.1.6",
+  "description": "Provide a jquery pluggin for plupload",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polinome/jquery-pluploader.git"
+  },
+  "keywords": [
+    "jquery",
+    "plupload",
+    "upload"
+  ],
+  "author": {
+    "name": "polinome",
+    "url": "https://www.polinome.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polinome/jquery-pluploader/issues"
+  },
+  "homepage": "https://github.com/polinome/jquery-pluploader#readme"
+}
